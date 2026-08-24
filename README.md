@@ -60,4 +60,4 @@ This is currently a frontend-only prototype using fake/mock data and `localStora
 
 ## Author
 
-Built by [Your Name] as a portfolio project while transitioning from data science into software engineering.
+Built by Kai Qian as a portfolio project while transitioning from data science into software engineering.
