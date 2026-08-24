@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# In case a backend gets added later (Node/Python)
+node_modules/
+__pycache__/
+*.pyc
+.env
