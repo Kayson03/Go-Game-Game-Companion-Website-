@@ -2,7 +2,7 @@
 
 A frontend web app connecting players with game companions for paid play sessions — think a marketplace for finding someone to duo/queue with, by game, skill level, and price.
 
-**[Live Demo](#)** *(add your GitHub Pages / Vercel link here once deployed)*
+[**[Live Demo](#)** *(add your GitHub Pages / Vercel link here once deployed)*](https://kayson03.github.io/Go-Game-Game-Companion-Website-/)
 
 ## Features
 
